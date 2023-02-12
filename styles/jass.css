@@ -19,6 +19,8 @@ html {
    */
 body {
   margin: 0;
+  background-image: url('../images/cloud-blue-sky.jpg');
+  background-size: cover;
 }
 
 /**
